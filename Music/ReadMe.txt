@@ -1,3 +1,7 @@
+** Move these notes to ReadMe.md **
+- Must have only music in folder
+
+
 What is the emotion you want to create in others
 
 Examples: you get to decide what emotions you are planning for ... your user will agree or disagree
