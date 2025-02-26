@@ -1,3 +1,5 @@
+//Dynamic Programming v Static
+//
 //Library - Minim
 //
 //Global Variables
