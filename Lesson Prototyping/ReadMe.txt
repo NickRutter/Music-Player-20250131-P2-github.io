@@ -17,7 +17,7 @@ Images
 - Then emphasize the X&Y variables move the abstract shape to a specfic location
 - Introduces procedures
 
-- Extra Features
+- Extra Features: tint, etc.
 
 Ideas:
 - drag and drop
@@ -41,3 +41,14 @@ Need a flowchart about how the music buttons what the will control
 
 
 Colours: Day, Dark, Night Modes
+
+NEXT & PREVOIUS Button
+Lesson for NEXT: layout functions strips in jigsaw
+Student Complete Previous
+
+Data Structures
+- Song # | Meta Data for Strings and Numbers
+- Image # | Connected to Song #
+
+TBA: GUI Overlap and difficulty reading it
+
