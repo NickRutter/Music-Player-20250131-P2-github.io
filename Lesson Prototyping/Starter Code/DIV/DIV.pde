@@ -5,6 +5,7 @@
 //Global Variables
 //
 void setup() {
+  //Display
   fullscreen();
   appWidth = ;
   appHeight = ;

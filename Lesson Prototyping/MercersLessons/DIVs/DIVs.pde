@@ -11,10 +11,12 @@ float x, y, width1, height1;
 //
 void setup() {
   println("1.", x, y, width1, height1);
+  // Display
   fullScreen();
   println(displayWidth, displayHeight);
   int appWidth;
   int appHeight;
+  //
   println(appWidth, appHeight);
   appWidth = displayWidth;
   appHeight = displayHeight;

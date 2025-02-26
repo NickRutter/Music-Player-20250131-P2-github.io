@@ -33,7 +33,7 @@ void setup()
   String theSimplest = "The_Simplest";
   //
   //Add Reading into Array
-  String directory = "../../" + musicPathway;
+  String directory = "../../../" + musicPathway;
   println ( currentSong, directory );
   String file = directory + groove + mp3FileName;
   println (file);
